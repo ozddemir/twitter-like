@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/qL0pB6sMsApFzVKoo8mnQZgiboWRVAZxQa4hNa30Wj43F2G3lrJjZIi7S70UY3gCHWwyvA4m66LYptOA5kXQ==",
+  "dgSpecHash": "NRU6XaaWPmHnx9RLl8PZw7wkCD4GCo56TD13mCIs1FWLee1dORoJfnrhQKz8F6ypoPIH4rFJaUsJvOT/4fWVNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Api\\Keove.Api.csproj",
+  "projectFilePath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Api\\Keove.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ozwemir\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\3.1.2\\aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512",
     "C:\\Users\\ozwemir\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

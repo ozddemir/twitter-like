@@ -11,3 +11,16 @@ C:\Users\ozwemir\source\repos\Keove\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Cor
 C:\Users\ozwemir\source\repos\Keove\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.csproj.CopyComplete
 C:\Users\ozwemir\source\repos\Keove\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.dll
 C:\Users\ozwemir\source\repos\Keove\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.pdb
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\bin\Debug\netcoreapp3.1\Keove.Core.deps.json
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\bin\Debug\netcoreapp3.1\Keove.Core.dll
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\bin\Debug\netcoreapp3.1\Keove.Core.pdb
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\bin\Debug\netcoreapp3.1\Keove.Dto.dll
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\bin\Debug\netcoreapp3.1\Keove.Dto.pdb
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.csproj.AssemblyReference.cache
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.AssemblyInfoInputs.cache
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.AssemblyInfo.cs
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.csproj.CoreCompileInputs.cache
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.csproj.CopyComplete
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.dll
+C:\Users\ozwemir\source\repos\twitter-like\Keove.Core\obj\Debug\netcoreapp3.1\Keove.Core.pdb

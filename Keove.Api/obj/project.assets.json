@@ -4894,11 +4894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Api\\Keove.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Api\\Keove.Api.csproj",
       "projectName": "Keove.Api",
-      "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Api\\Keove.Api.csproj",
+      "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Api\\Keove.Api.csproj",
       "packagesPath": "C:\\Users\\ozwemir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Api\\obj\\",
+      "outputPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ozwemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4915,14 +4915,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj": {
-              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj"
+            "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj": {
+              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj"
             },
-            "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.DataAccess\\Keove.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.DataAccess\\Keove.DataAccess.csproj"
+            "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.DataAccess\\Keove.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.DataAccess\\Keove.DataAccess.csproj"
             },
-            "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj": {
-              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj"
+            "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj": {
+              "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj"
             }
           }
         }

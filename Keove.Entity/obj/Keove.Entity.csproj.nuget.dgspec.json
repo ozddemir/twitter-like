@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Entity\\Keove.Entity.csproj": {}
+    "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Entity\\Keove.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Entity\\Keove.Entity.csproj": {
+    "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Entity\\Keove.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Entity\\Keove.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Entity\\Keove.Entity.csproj",
         "projectName": "Keove.Entity",
-        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Entity\\Keove.Entity.csproj",
+        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Entity\\Keove.Entity.csproj",
         "packagesPath": "C:\\Users\\ozwemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Entity\\obj\\",
+        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozwemir\\AppData\\Roaming\\NuGet\\NuGet.Config",

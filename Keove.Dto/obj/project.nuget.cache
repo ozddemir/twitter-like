@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yo0lVrxZCzxY2g+9yn7i5AwcVoAf29GQvAr9kg6k1qm1Ui+RCbIdScl3LzIAT5wpgAZEC+mHbOd0GmMuZRT4NA==",
+  "dgSpecHash": "GBGCEJO/ODEKpUEmZnSXiD2kI1pij+tdAx/DDbfxMxYysO5ACvAlJujhk3mqpTmKVYvPcOMKuBxyI2CGKSNThw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj",
+  "projectFilePath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

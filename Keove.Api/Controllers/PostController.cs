@@ -52,12 +52,12 @@ namespace Keove.Api.Controllers
                 var likes = posts.Where(x => x.Likes.Any(c => c.UserId == user.Id)).ToList();
                 var unlikes = posts.Where(x => x.Likes.Any(c => c.UserId != user.Id) || x.Likes.Count == 0).ToList();
 
-                likes.ForEach(x => { result.Add(new GetPostDto { Content = x.Content }); });
-                unlikes.ForEach(x => { result.Add(new GetPostDto { Content = x.Content }); });
+                likes.ForEach(x => { result.Add(new GetPostDto { Content = x.Content, Id = x.Id.ToString() }); });
+                unlikes.ForEach(x => { result.Add(new GetPostDto { Content = x.Content, Id = x.Id.ToString() }); });
                 return result;
             }
 
-            posts.ToList().ForEach(x => { result.Add(new GetPostDto { Content = x.Content }); });
+            posts.ToList().ForEach(x => { result.Add(new GetPostDto { Content = x.Content, Id = x.Id.ToString() }); });
 
             return result;
         }

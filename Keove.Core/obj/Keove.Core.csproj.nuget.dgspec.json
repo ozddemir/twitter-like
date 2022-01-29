@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj": {}
+    "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj": {
+    "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj",
         "projectName": "Keove.Core",
-        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\Keove.Core.csproj",
+        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\Keove.Core.csproj",
         "packagesPath": "C:\\Users\\ozwemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Core\\obj\\",
+        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozwemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj": {
-                "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj"
+              "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj": {
+                "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj": {
+    "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj",
         "projectName": "Keove.Dto",
-        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\Keove.Dto.csproj",
+        "projectPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\Keove.Dto.csproj",
         "packagesPath": "C:\\Users\\ozwemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\Keove\\Keove.Dto\\obj\\",
+        "outputPath": "C:\\Users\\ozwemir\\source\\repos\\twitter-like\\Keove.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozwemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
