@@ -1,0 +1,10 @@
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\bin\Debug\netcoreapp3.1\Keove.Entity.deps.json
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\bin\Debug\netcoreapp3.1\Keove.Entity.dll
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\bin\Debug\netcoreapp3.1\Keove.Entity.pdb
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.csproj.AssemblyReference.cache
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.AssemblyInfoInputs.cache
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.AssemblyInfo.cs
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.dll
+C:\Users\ozwemir\source\repos\Keove\Keove.Entity\obj\Debug\netcoreapp3.1\Keove.Entity.pdb
